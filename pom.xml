@@ -5,7 +5,7 @@
 
   <modelVersion>4.0.0</modelVersion>
 
-  <groupId>com.maven.demo</groupId>
+  <groupId>com.vivek.www</groupId>
   <artifactId>firstmaven</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>jar</packaging>
